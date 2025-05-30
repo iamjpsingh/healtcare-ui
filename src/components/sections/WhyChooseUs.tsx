@@ -37,8 +37,8 @@ const WhyChooseUs = ({
   },
 }: WhyChooseUs) => {
   return (
-    <section className="py-20">
-      <div className="container justify-center mx-auto px-5">
+    <section className="py-32">
+      <div className="container justify-center mx-auto px-5 ">
         <div className="grid items-center gap-8 lg:grid-cols-2">
           <div className="flex flex-col items-center text-center lg:items-start lg:text-left">
             <h1 className="my-6 text-4xl font-bold text-pretty lg:text-6xl">
